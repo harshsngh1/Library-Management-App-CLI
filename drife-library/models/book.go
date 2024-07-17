@@ -3,5 +3,5 @@ package models
 type Book struct {
 	Title  string
 	Author string
-	Genere string
+	Genre  string
 }
