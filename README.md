@@ -37,7 +37,7 @@ drife-library/
 
 ## Installation
 
-`Golang requirement` : Go 1.16+
+`Golang requirement` : Go 1.22.4
 1. Clone the repository :
 
 ```
@@ -62,4 +62,20 @@ go build -o library-cli
 or directly:
 ```
 go run main.go
+```
+
+## Running via Docker
+
+To run the application using Docker, execute the following commands:
+
+1. Build the Docker image:
+
+```
+docker build -t drife-library .
+```
+
+2. Run the Docker container:
+
+```
+docker run -it drife-library
 ```
