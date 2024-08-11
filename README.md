@@ -1,4 +1,4 @@
-# Drife-library
+# Library Management CLI App
 
 This is a simple CLI library service written in Golang
 
