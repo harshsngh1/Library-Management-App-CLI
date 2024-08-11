@@ -41,7 +41,7 @@ drife-library/
 1. Clone the repository :
 
 ```
-git clone https://github.com/harshsngh1/Drife-library 
+git clone https://github.com/harshsngh1/Library-Management-App-CLI 
 ```
 
 2. Navigate to the project directory:
